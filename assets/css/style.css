@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("/assets/img/bgm2.jpg");
+  background: #040404 url("assets/img/bgm2.jpg");
   background-size: cover;
   left: 0;
   right: 0;
@@ -169,7 +169,7 @@ h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: url("/assets/img/mawarbirublur.jpg");
+  background: url("assets/img/mawarbirublur.jpg");
   background-size: cover;
   transition:ease-in-out;
   transition-duration: 4.0ms;
@@ -317,7 +317,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: url("/assets/img/mawarbirublur.jpg");
+  background: url("assets/img/mawarbirublur.jpg");
   background-size: cover;
   transition: 0.3s;
   z-index: 999;
